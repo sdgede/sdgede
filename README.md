@@ -11,7 +11,7 @@
 
 <p align="left">
 
-  <a href="https://instagram.com/de.indrawann" target="_blank">
+  <a href="https://instagram.com/de.indrawan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://x.com/01vistra" target="_blank">
@@ -46,8 +46,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight&hide=css" height="165px"/>
 </p>
 
 ---
@@ -62,12 +62,4 @@
 
 ---
 
-### 👾 Pac-Man Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdgede/sdgede/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdgede/sdgede/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/sdgede/sdgede/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+****
