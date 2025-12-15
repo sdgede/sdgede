@@ -3,22 +3,21 @@
   <img src="./asset/ban.jpeg" alt="Banner" width="100%"/>
 </p>
 
-<h3 align="center"> Hello World! 👋 I'm Gede Indrawan </h3>
+<h3 align="center">👋 Hello World! I'm Gede Indrawan</h3>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-
+<p align="center">
   <a href="https://instagram.com/de.indrawan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://x.com/01vistra" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter(X)-black?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="mailto:gedeindrawan2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -39,28 +38,24 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight&hide=css" height="165px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight&hide=php" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 ## 🎮 Fun Zone
 
-### 🐍 Snake Eating Commits
+### 🐍 Snake Eating My Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sdgede/sdgede/output/snake.svg" alt="Snake animation"/>
 </p>
-
----
-
-****
