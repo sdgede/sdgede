@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/sdgede">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Developer+(Flutter+%26+Dart);Full-Stack+Web+Developer;Passionate+Problem+Solver;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Developer+(1%2B+Yrs+Exp);Flutter+%26+Dart+Specialist;Full-Stack+Web+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,11 +25,13 @@
 ```yaml
 name: Gede Indrawan
 location: Indonesia
-role: Software Engineer / Mobile & Web Developer
+role: Mobile Developer & Software Engineer
+experience: "1+ Years in Mobile Development (Flutter & Dart)"
 passions: [Mobile Development, Web Systems, Clean Architecture, UI/UX]
-current_focus: Building scalable mobile apps with Flutter & robust web applications
+current_focus: Building high-performance mobile apps with Flutter & robust web applications
 ```
 
+- 📱 **Experience**: **1+ years of hands-on experience** developing cross-platform mobile apps using **Flutter & Dart**, specializing in clean architecture, state management, and seamless REST API integration.
 - 🔭 **Focus**: Crafting high-performance cross-platform mobile apps (**Flutter**) and modern web solutions (**Laravel / PHP / JavaScript**).
 - 💡 **Philosophy**: Writing clean, maintainable, and efficient code with a strong emphasis on user experience.
 - 🌱 **Learning**: Continuously sharpening skills in software architecture, scalable APIs, and modern frontend/backend tooling.
@@ -85,12 +87,16 @@ current_focus: Building scalable mobile apps with Flutter & robust web applicati
 ## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="170" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdgede&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdgede&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sdgede&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sdgede&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sdgede&theme=tokyo-night&hide_border=false&border_radius=8" width="100%" alt="Activity Graph" />
 </p>
 
 ---
