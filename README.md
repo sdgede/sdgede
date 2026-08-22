@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Gede%20Indrawan&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Mobile%20Developer%20%7C%20Full-Stack%20Web%20Developer&descSize=19&descAlignY=68" width="100%" alt="Header Banner"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Gede Indrawan</h1>
+<h1 align="center">Hi, I'm Gede Indrawan</h1>
 
 <p align="center">
   <a href="https://github.com/sdgede">
@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%2338bdf8" height="22" valign="middle"/> About Me
 
 ```yaml
 name: Gede Indrawan
@@ -31,18 +31,18 @@ passions: [Mobile Development, Web Systems, Clean Architecture, UI/UX]
 current_focus: Building high-performance mobile apps with Flutter & robust web applications
 ```
 
-- 📱 **Experience**: **1+ years of hands-on experience** developing cross-platform mobile apps using **Flutter & Dart**, specializing in clean architecture, state management, and seamless REST API integration.
-- 🔭 **Focus**: Crafting high-performance cross-platform mobile apps (**Flutter**) and modern web solutions (**Laravel / PHP / JavaScript**).
-- 💡 **Philosophy**: Writing clean, maintainable, and efficient code with a strong emphasis on user experience.
-- 🌱 **Learning**: Continuously sharpening skills in software architecture, scalable APIs, and modern frontend/backend tooling.
-- 🤝 **Collaboration**: Open to exciting freelance projects, open-source contributions, and collaborative ventures.
-- 💬 **Ask me about**: Flutter, Dart, Laravel, PHP, MySQL, and Web Technologies.
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%2338bdf8" height="18" valign="middle"/> **Experience**: **1+ years of hands-on experience** developing cross-platform mobile apps using **Flutter & Dart**, specializing in clean architecture, state management, and seamless REST API integration.
+- <img src="https://api.iconify.design/lucide:compass.svg?color=%2338bdf8" height="18" valign="middle"/> **Focus**: Crafting high-performance cross-platform mobile apps (**Flutter**) and modern web solutions (**Laravel / PHP / JavaScript**).
+- <img src="https://api.iconify.design/lucide:zap.svg?color=%2338bdf8" height="18" valign="middle"/> **Philosophy**: Writing clean, maintainable, and efficient code with a strong emphasis on user experience.
+- <img src="https://api.iconify.design/lucide:book-open.svg?color=%2338bdf8" height="18" valign="middle"/> **Learning**: Continuously sharpening skills in software architecture, scalable APIs, and modern frontend/backend tooling.
+- <img src="https://api.iconify.design/lucide:users.svg?color=%2338bdf8" height="18" valign="middle"/> **Collaboration**: Open to exciting freelance projects, open-source contributions, and collaborative ventures.
+- <img src="https://api.iconify.design/lucide:message-square.svg?color=%2338bdf8" height="18" valign="middle"/> **Ask me about**: Flutter, Dart, Laravel, PHP, MySQL, and Web Technologies.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## <img src="https://api.iconify.design/lucide:layers.svg?color=%2338bdf8" height="22" valign="middle"/> Tech Stack & Skills
 
-### 📱 Mobile Development
+### <img src="https://api.iconify.design/lucide:smartphone.svg?color=%2338bdf8" height="18" valign="middle"/> Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -50,7 +50,7 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
-### 🌐 Frontend & Web Design
+### <img src="https://api.iconify.design/lucide:layout.svg?color=%2338bdf8" height="18" valign="middle"/> Frontend & Web Design
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -59,7 +59,7 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### <img src="https://api.iconify.design/lucide:server.svg?color=%2338bdf8" height="18" valign="middle"/> Backend & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
@@ -67,13 +67,13 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🗄️ Database & Storage
+### <img src="https://api.iconify.design/lucide:database.svg?color=%2338bdf8" height="18" valign="middle"/> Database & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-### 🔧 Tools & Workflow
+### <img src="https://api.iconify.design/lucide:terminal.svg?color=%2338bdf8" height="18" valign="middle"/> Tools & Workflow
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -84,7 +84,7 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2338bdf8" height="22" valign="middle"/> GitHub Analytics & Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdgede&theme=tokyonight" alt="GitHub Stats" />
@@ -98,7 +98,7 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
 
 ---
 
-## 🎮 Contribution Activity
+## <img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338bdf8" height="22" valign="middle"/> Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sdgede/sdgede/output/snake.svg" alt="Snake eating my commits" width="100%"/>
@@ -107,5 +107,5 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
 ---
 
 <p align="center">
-  <sub>⭐️ Designed with passion by <a href="https://github.com/sdgede">Gede Indrawan</a></sub>
+  <sub>Designed with passion by <a href="https://github.com/sdgede">Gede Indrawan</a></sub>
 </p>
