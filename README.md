@@ -89,10 +89,7 @@ current_focus: Building high-performance mobile apps with Flutter & robust web a
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdgede&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sdgede&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sdgede&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sdgede&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 <p align="center">
