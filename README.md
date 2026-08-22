@@ -1,61 +1,108 @@
-<!-- Banner -->
+<!-- Header Banner -->
 <p align="center">
-  <img src="./asset/ban.jpeg" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Gede%20Indrawan&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Mobile%20Developer%20%7C%20Full-Stack%20Web%20Developer&descSize=19&descAlignY=68" width="100%" alt="Header Banner"/>
 </p>
 
-<h3 align="center">👋 Hello World! I'm Gede Indrawan</h3>
-
----
-
-## 🌐 Connect with Me
+<h1 align="center">👋 Hi, I'm Gede Indrawan</h1>
 
 <p align="center">
-  <a href="https://instagram.com/de.indrawan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://x.com/01vistra" target="_blank">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:gedeindrawan2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://github.com/sdgede">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Developer+(Flutter+%26+Dart);Full-Stack+Web+Developer;Passionate+Problem+Solver;Tech+Explorer+%26+Builder" alt="Typing SVG" />
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CodeIgniter-FB542B?style=for-the-badge&logo=codeigniter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <a href="mailto:gedeindrawan2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://instagram.com/de.indrawan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://x.com/01vistra" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://github.com/sdgede" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📌 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight" height="165"/>
+```yaml
+name: Gede Indrawan
+location: Indonesia
+role: Software Engineer / Mobile & Web Developer
+passions: [Mobile Development, Web Systems, Clean Architecture, UI/UX]
+current_focus: Building scalable mobile apps with Flutter & robust web applications
+```
+
+- 🔭 **Focus**: Crafting high-performance cross-platform mobile apps (**Flutter**) and modern web solutions (**Laravel / PHP / JavaScript**).
+- 💡 **Philosophy**: Writing clean, maintainable, and efficient code with a strong emphasis on user experience.
+- 🌱 **Learning**: Continuously sharpening skills in software architecture, scalable APIs, and modern frontend/backend tooling.
+- 🤝 **Collaboration**: Open to exciting freelance projects, open-source contributions, and collaborative ventures.
+- 💬 **Ask me about**: Flutter, Dart, Laravel, PHP, MySQL, and Web Technologies.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+</p>
+
+### 🌐 Frontend & Web Design
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
+
+### ⚙️ Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🗄️ Database & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### 🔧 Tools & Workflow
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
 
-## 🎮 Fun Zone
-
-### 🐍 Snake Eating My Commits
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sdgede/sdgede/output/snake.svg" alt="Snake animation"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sdgede&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdgede&layout=compact&theme=tokyonight&hide_border=false&border_radius=8" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sdgede&theme=tokyonight&hide_border=false&border_radius=8" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🎮 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sdgede/sdgede/output/snake.svg" alt="Snake eating my commits" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>⭐️ Designed with passion by <a href="https://github.com/sdgede">Gede Indrawan</a></sub>
 </p>
