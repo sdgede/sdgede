@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/sdgede">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Developer+(1%2B+Yrs+Exp);Flutter+%26+Dart+Specialist;Full-Stack+Web+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Mobile+Developer+(2%2B+Yrs+Exp);Flutter+%26+Dart+Specialist;Full-Stack+Web+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
   </a>
 </p>
 
