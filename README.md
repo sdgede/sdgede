@@ -26,12 +26,12 @@
 name: Gede Indrawan
 location: Indonesia
 role: Mobile Developer & Software Engineer
-experience: "1+ Years in Mobile Development (Flutter & Dart)"
+experience: "2+ Years in Mobile Development (Flutter & Dart)"
 passions: [Mobile Development, Web Systems, Clean Architecture, UI/UX]
 current_focus: Building high-performance mobile apps with Flutter & robust web applications
 ```
 
-- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%2338bdf8" height="18" valign="middle"/> **Experience**: **1+ years of hands-on experience** developing cross-platform mobile apps using **Flutter & Dart**, specializing in clean architecture, state management, and seamless REST API integration.
+- <img src="https://api.iconify.design/lucide:smartphone.svg?color=%2338bdf8" height="18" valign="middle"/> **Experience**: **2+ years of hands-on experience** developing cross-platform mobile apps using **Flutter & Dart**, specializing in clean architecture, state management, and seamless REST API integration.
 - <img src="https://api.iconify.design/lucide:compass.svg?color=%2338bdf8" height="18" valign="middle"/> **Focus**: Crafting high-performance cross-platform mobile apps (**Flutter**) and modern web solutions (**Laravel / PHP / JavaScript**).
 - <img src="https://api.iconify.design/lucide:zap.svg?color=%2338bdf8" height="18" valign="middle"/> **Philosophy**: Writing clean, maintainable, and efficient code with a strong emphasis on user experience.
 - <img src="https://api.iconify.design/lucide:book-open.svg?color=%2338bdf8" height="18" valign="middle"/> **Learning**: Continuously sharpening skills in software architecture, scalable APIs, and modern frontend/backend tooling.
